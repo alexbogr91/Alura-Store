@@ -9,40 +9,11 @@
 
 ## 🎯 Objetivo del Challenge
 
-Este proyecto forma parte del challenge de Data Science con Python de Alura Latam. El objetivo principal es ayudar al Sr. Juan, propietario de cuatro tiendas, a **decidir qué tienda vender** para poder invertir en un nuevo negocio. Para tomar esta importante decisión estratégica, se realiza un análisis completo de datos utilizando Python y sus bibliotecas de análisis de datos.
+Este proyecto forma parte del challenge de Data Science con Python de Alura Latam. El objetivo principal es **decidir qué tienda vender** para poder invertir en un nuevo negocio. 
 
 ## 📋 Descripción del Problema
 
 El Sr. Juan es dueño de cuatro tiendas y busca vender una de ellas para invertir en un nuevo emprendimiento. Para tomar una decisión informada basada en datos, necesita un análisis profundo del desempeño de cada tienda. Este challenge aborda esta necesidad mediante el análisis de datos históricos de las cuatro tiendas.
-
-## 🔍 Criterios de Análisis
-
-La decisión sobre qué tienda vender se basará en cinco criterios principales:
-
-1. **💰 Facturación Total por Tienda**
-   - Análisis completo de ingresos
-   - Comparación de ventas entre tiendas
-   - Tendencias y patrones de facturación
-
-2. **📦 Categorías Más Populares**
-   - Identificación de las categorías más vendidas
-   - Análisis de la distribución de ventas por categoría
-   - Comparación del desempeño de categorías entre tiendas
-
-3. **⭐ Promedio de Calificación de Clientes**
-   - Evaluación de la satisfacción del cliente
-   - Análisis de calificaciones por tienda y categoría
-   - Impacto de la calificación en las ventas
-
-4. **📈 Productos Más y Menos Vendidos**
-   - Identificación de productos estrella
-   - Análisis de productos con bajo rendimiento
-   - Comparación de patrones de producto entre tiendas
-
-5. **🚚 Costo Promedio de Envío**
-   - Evaluación de costos logísticos
-   - Relación entre costos de envío y ventas
-   - Eficiencia de envío por tienda
 
 ## 💻 Tecnologías Utilizadas
 
@@ -96,31 +67,15 @@ El notebook `AluraStoreLatam.ipynb` contiene el análisis completo, organizado e
 
 4. Ejecuta las celdas secuencialmente para reproducir el análisis
 
-## 📈 Conclusiones Principales
-
-El análisis proporciona información valiosa para la toma de decisiones estratégicas:
-
-- Identificación de la tienda con menor rendimiento financiero
-- Reconocimiento de oportunidades de optimización para las tiendas que se mantendrán
-- Recomendaciones basadas en datos para mejorar la eficiencia operativa
-- Insights sobre preferencias de los clientes y tendencias de mercado
-
 ## 👨‍💻 Autor
 
-### [David Sandoval](https://github.com/sandovaldavid)
-
-- 🌐 Portafolio: [devsandoval.me](https://devsandoval.me)
-- 💼 LinkedIn: [@devsandoval](https://linkedin.com/in/devsandoval)
-- 💻 GitHub: [@sandovaldavid](https://github.com/sandovaldavid)
-- 📧 Email: [contact@devsandoval.me](mailto:contact@devsandoval.me)
+### [Alexander Bonilla G](https://[github.com/alexbogr91]
 
 ---
 
 ## 🙏 Agradecimientos
 
-- Alura Latam por proporcionar este desafiante proyecto
-- Instructores y mentores por su guía y apoyo
-- Comunidad de estudiantes por el intercambio de conocimientos
+- Alura Latam, por fomentar el desarrollo de un desafio muy exigente para ir consolidando lo aprendido hasta el momento con Data Science con Python
 
 ---
 
